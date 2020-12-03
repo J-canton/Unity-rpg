@@ -5,7 +5,14 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     public float speed = 5f;
-    private const string AXIS_H = "Horizontal", AXIS_V = "Vertical";
+    public bool walking = false;
+    public Vector2 lastMovement = Vector2.zero;
+    private const string 
+        AXIS_H = "Horizontal", 
+        AXIS_V = "Vertical", 
+        WALKING = "Walking",
+        LAST_HORIZONTAL = "LastHorizontal",
+        LAST_VERTICAL="LastVertical";
     private Animator _animator;
 
     void Start()
@@ -19,21 +26,32 @@ public class PlayerController : MonoBehaviour
     }
 
     void LateUpdate() {
+        SetCharacterIsWalking(walking);
         SetAnimatorAxisValues();
+        SetLastMovementAnimatorAxisValues(lastMovement);
     }
 
     void MoveCharacter()
     {
-        if(Mathf.Abs(Input.GetAxisRaw(AXIS_H))>0.2f)
+        if(Mathf.Abs(Input.GetAxisRaw(AXIS_H))>0.02f)
         {
             Vector3 translation = new Vector3(Input.GetAxisRaw(AXIS_H)* speed * Time.deltaTime, 0,0);
             this.transform.Translate(translation);
+            walking = true;
+            lastMovement = new Vector2(Input.GetAxisRaw(AXIS_H),0);
         }
 
-        if(Mathf.Abs(Input.GetAxisRaw(AXIS_V))>0.2f)
+        if(Mathf.Abs(Input.GetAxisRaw(AXIS_V))>0.02f)
         {
             Vector3 translation = new Vector3(0, Input.GetAxisRaw(AXIS_V)* speed * Time.deltaTime, 0);
             this.transform.Translate(translation);
+            walking = true;
+            lastMovement = new Vector2(0,Input.GetAxisRaw(AXIS_V));
+        }
+
+        if((Mathf.Abs(Input.GetAxisRaw(AXIS_V))==0.0f) && (Mathf.Abs(Input.GetAxisRaw(AXIS_H))==0.0f))
+        {
+           walking = false;
         }
     }
 
@@ -41,5 +59,15 @@ public class PlayerController : MonoBehaviour
     {
         _animator.SetFloat(AXIS_H, Input.GetAxisRaw(AXIS_H));
         _animator.SetFloat(AXIS_V, Input.GetAxisRaw(AXIS_V));
+    }
+
+    void SetLastMovementAnimatorAxisValues(Vector2 lastMovement){
+        _animator.SetFloat(LAST_HORIZONTAL, lastMovement.x);
+        _animator.SetFloat(LAST_VERTICAL, lastMovement.y);
+    }
+
+    void  SetCharacterIsWalking(bool newState)
+    {
+        _animator.SetBool(WALKING, newState);
     }
 }
