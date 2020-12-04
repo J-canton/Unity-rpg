@@ -1,0 +1,6970 @@
+fileFormatVersion: 2
+guid: 27dab27c819ed4d53b5fbc3e75cc106e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4605363114875947968
+    second: breathOfTheLink_0
+  - first:
+      213: -8282830546506244542
+    second: breathOfTheLink_1
+  - first:
+      213: -1211862482777113805
+    second: breathOfTheLink_2
+  - first:
+      213: 314712731108596159
+    second: breathOfTheLink_3
+  - first:
+      213: 4228909390946686462
+    second: breathOfTheLink_4
+  - first:
+      213: 720408886591789457
+    second: breathOfTheLink_5
+  - first:
+      213: 1660860727277834261
+    second: breathOfTheLink_6
+  - first:
+      213: 1642590605470507981
+    second: breathOfTheLink_7
+  - first:
+      213: 3603441941539208935
+    second: breathOfTheLink_8
+  - first:
+      213: 5146214968642627362
+    second: breathOfTheLink_9
+  - first:
+      213: -6413956065835725569
+    second: breathOfTheLink_10
+  - first:
+      213: 5391144469077073694
+    second: breathOfTheLink_11
+  - first:
+      213: 6386438821124183201
+    second: breathOfTheLink_12
+  - first:
+      213: -58200049758246007
+    second: breathOfTheLink_13
+  - first:
+      213: 4971788522525299915
+    second: breathOfTheLink_14
+  - first:
+      213: -8030512060704137540
+    second: breathOfTheLink_15
+  - first:
+      213: -1275093020129178618
+    second: breathOfTheLink_16
+  - first:
+      213: 4499485721253006765
+    second: breathOfTheLink_17
+  - first:
+      213: -2638350169550799358
+    second: breathOfTheLink_18
+  - first:
+      213: 8394636017422041314
+    second: breathOfTheLink_19
+  - first:
+      213: -7416244457181147656
+    second: breathOfTheLink_20
+  - first:
+      213: 7083175019239676400
+    second: breathOfTheLink_21
+  - first:
+      213: -4035833514102000055
+    second: breathOfTheLink_22
+  - first:
+      213: 922912132642228615
+    second: breathOfTheLink_23
+  - first:
+      213: 5891541684366926297
+    second: breathOfTheLink_24
+  - first:
+      213: 6352660495857555583
+    second: breathOfTheLink_25
+  - first:
+      213: -3638495682322000149
+    second: breathOfTheLink_26
+  - first:
+      213: 2444843332640460757
+    second: breathOfTheLink_27
+  - first:
+      213: 7103364960824022698
+    second: breathOfTheLink_28
+  - first:
+      213: 8947104534375896645
+    second: breathOfTheLink_29
+  - first:
+      213: 5724753236293850035
+    second: breathOfTheLink_30
+  - first:
+      213: 4441275349743380483
+    second: breathOfTheLink_31
+  - first:
+      213: -4682661161228085243
+    second: breathOfTheLink_32
+  - first:
+      213: -4810009774831532528
+    second: breathOfTheLink_33
+  - first:
+      213: -8487959899505794653
+    second: breathOfTheLink_34
+  - first:
+      213: 7848663345418128154
+    second: breathOfTheLink_35
+  - first:
+      213: -8558442163745073853
+    second: breathOfTheLink_36
+  - first:
+      213: 4507124706640348174
+    second: breathOfTheLink_37
+  - first:
+      213: 2561552440297231411
+    second: breathOfTheLink_38
+  - first:
+      213: -154598241482956295
+    second: breathOfTheLink_39
+  - first:
+      213: 4743167483911606796
+    second: breathOfTheLink_40
+  - first:
+      213: -9100929631166347226
+    second: breathOfTheLink_41
+  - first:
+      213: 3026069340837106456
+    second: breathOfTheLink_42
+  - first:
+      213: -7939481538717437174
+    second: breathOfTheLink_43
+  - first:
+      213: -1865703940928061437
+    second: breathOfTheLink_44
+  - first:
+      213: 301355611994935468
+    second: breathOfTheLink_45
+  - first:
+      213: -2857611247974959340
+    second: breathOfTheLink_46
+  - first:
+      213: -925430484882288036
+    second: breathOfTheLink_47
+  - first:
+      213: -6105732188537771444
+    second: breathOfTheLink_48
+  - first:
+      213: 4152473753418288546
+    second: breathOfTheLink_49
+  - first:
+      213: 7323685817950585116
+    second: breathOfTheLink_50
+  - first:
+      213: 6819110152997881655
+    second: breathOfTheLink_51
+  - first:
+      213: -1730401460878686826
+    second: breathOfTheLink_52
+  - first:
+      213: 5514311274657963825
+    second: breathOfTheLink_53
+  - first:
+      213: -7280534009618279813
+    second: breathOfTheLink_54
+  - first:
+      213: -8813224319499788334
+    second: breathOfTheLink_55
+  - first:
+      213: -2349402172830241227
+    second: breathOfTheLink_56
+  - first:
+      213: 7752215402052674860
+    second: breathOfTheLink_57
+  - first:
+      213: 6977542911780175836
+    second: breathOfTheLink_58
+  - first:
+      213: 1390278869171916025
+    second: breathOfTheLink_59
+  - first:
+      213: -8987032446365567795
+    second: breathOfTheLink_60
+  - first:
+      213: 2029172432746575674
+    second: breathOfTheLink_61
+  - first:
+      213: 777814959310218997
+    second: breathOfTheLink_62
+  - first:
+      213: -3973183049871587198
+    second: breathOfTheLink_63
+  - first:
+      213: 6961049980861434971
+    second: breathOfTheLink_64
+  - first:
+      213: 5124360737207205110
+    second: breathOfTheLink_65
+  - first:
+      213: -7447003354281473118
+    second: breathOfTheLink_66
+  - first:
+      213: 107702381896517784
+    second: breathOfTheLink_67
+  - first:
+      213: -9135158078095730839
+    second: breathOfTheLink_68
+  - first:
+      213: 4149006114060782083
+    second: breathOfTheLink_69
+  - first:
+      213: -7733600812384344605
+    second: breathOfTheLink_70
+  - first:
+      213: -2784096996782476723
+    second: breathOfTheLink_71
+  - first:
+      213: -44038281760878425
+    second: breathOfTheLink_72
+  - first:
+      213: 6554220221676606394
+    second: breathOfTheLink_73
+  - first:
+      213: -6543902233892624312
+    second: breathOfTheLink_74
+  - first:
+      213: 7526292321067062516
+    second: breathOfTheLink_75
+  - first:
+      213: -8400183106246065369
+    second: breathOfTheLink_76
+  - first:
+      213: -8846312164384863910
+    second: breathOfTheLink_77
+  - first:
+      213: -2573298988531594864
+    second: breathOfTheLink_78
+  - first:
+      213: 6649883745476160129
+    second: breathOfTheLink_79
+  - first:
+      213: -3609172381717484185
+    second: breathOfTheLink_80
+  - first:
+      213: 7345143197195467765
+    second: breathOfTheLink_81
+  - first:
+      213: 8863259378498079911
+    second: breathOfTheLink_82
+  - first:
+      213: 9084164316842896574
+    second: breathOfTheLink_83
+  - first:
+      213: 3689606949040570771
+    second: breathOfTheLink_84
+  - first:
+      213: -7759313486767631512
+    second: breathOfTheLink_85
+  - first:
+      213: 6696181910892474782
+    second: breathOfTheLink_86
+  - first:
+      213: -2617582414800947276
+    second: breathOfTheLink_87
+  - first:
+      213: 1313196604012785012
+    second: breathOfTheLink_88
+  - first:
+      213: -5835391384959964585
+    second: breathOfTheLink_89
+  - first:
+      213: -5790101001161486130
+    second: breathOfTheLink_90
+  - first:
+      213: 4426636445288675628
+    second: breathOfTheLink_91
+  - first:
+      213: -1295809752200779145
+    second: breathOfTheLink_92
+  - first:
+      213: -8617129453646863042
+    second: breathOfTheLink_93
+  - first:
+      213: -1446751598014463445
+    second: breathOfTheLink_94
+  - first:
+      213: 7039831901289620473
+    second: breathOfTheLink_95
+  - first:
+      213: -6066949322026284216
+    second: breathOfTheLink_96
+  - first:
+      213: 7644130250847555939
+    second: breathOfTheLink_97
+  - first:
+      213: 8549580189113379590
+    second: breathOfTheLink_98
+  - first:
+      213: -2706714595068814318
+    second: breathOfTheLink_99
+  - first:
+      213: -2046277731214315105
+    second: breathOfTheLink_100
+  - first:
+      213: -5534605793882211554
+    second: breathOfTheLink_101
+  - first:
+      213: -1335738853533874116
+    second: breathOfTheLink_102
+  - first:
+      213: -3197698133561191971
+    second: breathOfTheLink_103
+  - first:
+      213: -8467270137583287093
+    second: breathOfTheLink_104
+  - first:
+      213: 9183747562029951461
+    second: breathOfTheLink_105
+  - first:
+      213: 8994003496349278311
+    second: breathOfTheLink_106
+  - first:
+      213: -4658233705582683167
+    second: breathOfTheLink_107
+  - first:
+      213: 7342365150156640638
+    second: breathOfTheLink_108
+  - first:
+      213: -4283898335831502035
+    second: breathOfTheLink_109
+  - first:
+      213: 6758051335248885706
+    second: breathOfTheLink_110
+  - first:
+      213: -6788224722542640930
+    second: breathOfTheLink_111
+  - first:
+      213: 760897019512733620
+    second: breathOfTheLink_112
+  - first:
+      213: 145216305509253126
+    second: breathOfTheLink_113
+  - first:
+      213: 579860555674323383
+    second: breathOfTheLink_114
+  - first:
+      213: -3824169693414776019
+    second: breathOfTheLink_115
+  - first:
+      213: 6465292169531825708
+    second: breathOfTheLink_116
+  - first:
+      213: -7420041668198831355
+    second: breathOfTheLink_117
+  - first:
+      213: 7954839523324347800
+    second: breathOfTheLink_118
+  - first:
+      213: 7137860170080731173
+    second: breathOfTheLink_119
+  - first:
+      213: 5881567306481190628
+    second: breathOfTheLink_120
+  - first:
+      213: 252429791099746767
+    second: breathOfTheLink_121
+  - first:
+      213: 1214672726916402037
+    second: breathOfTheLink_122
+  - first:
+      213: 8256122418979376375
+    second: breathOfTheLink_123
+  - first:
+      213: 8989138422762403628
+    second: breathOfTheLink_124
+  - first:
+      213: 4706814517620134613
+    second: breathOfTheLink_125
+  - first:
+      213: -383710045140734207
+    second: breathOfTheLink_126
+  - first:
+      213: 6246131463567579451
+    second: breathOfTheLink_127
+  - first:
+      213: -6616117716417531256
+    second: breathOfTheLink_128
+  - first:
+      213: -4383173033148299190
+    second: breathOfTheLink_129
+  - first:
+      213: 3885146506970435304
+    second: breathOfTheLink_130
+  - first:
+      213: 4752600690425503980
+    second: breathOfTheLink_131
+  - first:
+      213: -3058454186511121482
+    second: breathOfTheLink_132
+  - first:
+      213: 6451052664443622134
+    second: breathOfTheLink_133
+  - first:
+      213: -9043638358729063453
+    second: breathOfTheLink_134
+  - first:
+      213: -620108081905289004
+    second: breathOfTheLink_135
+  - first:
+      213: 1885390686712084544
+    second: breathOfTheLink_136
+  - first:
+      213: -1908332527384858742
+    second: breathOfTheLink_137
+  - first:
+      213: 3777472517603683866
+    second: breathOfTheLink_138
+  - first:
+      213: 5797707168815638557
+    second: breathOfTheLink_139
+  - first:
+      213: -3812055346426955950
+    second: breathOfTheLink_140
+  - first:
+      213: 2651435856800290851
+    second: breathOfTheLink_141
+  - first:
+      213: -2179865353035973640
+    second: breathOfTheLink_142
+  - first:
+      213: -693342379152325853
+    second: breathOfTheLink_143
+  - first:
+      213: 8075969530052381952
+    second: breathOfTheLink_144
+  - first:
+      213: -9010360821688410779
+    second: breathOfTheLink_145
+  - first:
+      213: 9161448335310212531
+    second: breathOfTheLink_146
+  - first:
+      213: -2892059749139528170
+    second: breathOfTheLink_147
+  - first:
+      213: -8650153540200715237
+    second: breathOfTheLink_148
+  - first:
+      213: -6384574679179372093
+    second: breathOfTheLink_149
+  - first:
+      213: -8459374891134001838
+    second: breathOfTheLink_150
+  - first:
+      213: 2655485676330312451
+    second: breathOfTheLink_151
+  - first:
+      213: 537836739326167324
+    second: breathOfTheLink_152
+  - first:
+      213: -5777467240173096161
+    second: breathOfTheLink_153
+  - first:
+      213: -6371097174163529283
+    second: breathOfTheLink_154
+  - first:
+      213: 2493172289185533367
+    second: breathOfTheLink_155
+  - first:
+      213: 8523172948212344425
+    second: breathOfTheLink_156
+  - first:
+      213: -2166545475062786559
+    second: breathOfTheLink_157
+  - first:
+      213: -4215455529550452703
+    second: breathOfTheLink_158
+  - first:
+      213: -7179891640297405484
+    second: breathOfTheLink_159
+  - first:
+      213: 2359738849950193664
+    second: breathOfTheLink_160
+  - first:
+      213: -9123694877501565025
+    second: breathOfTheLink_161
+  - first:
+      213: -1753092735305553222
+    second: breathOfTheLink_162
+  - first:
+      213: -277250331282764645
+    second: breathOfTheLink_163
+  - first:
+      213: -2736240332183404263
+    second: breathOfTheLink_164
+  - first:
+      213: -2287256998062003880
+    second: breathOfTheLink_165
+  - first:
+      213: 6361943762783231375
+    second: breathOfTheLink_166
+  - first:
+      213: 7622966562424324318
+    second: breathOfTheLink_167
+  - first:
+      213: -7661728575697388591
+    second: breathOfTheLink_168
+  - first:
+      213: -6267835119379553767
+    second: breathOfTheLink_169
+  - first:
+      213: -2342113236694631063
+    second: breathOfTheLink_170
+  - first:
+      213: -8888057282848104352
+    second: breathOfTheLink_171
+  - first:
+      213: 7135212068968215466
+    second: breathOfTheLink_172
+  - first:
+      213: 6100682419801354322
+    second: breathOfTheLink_173
+  - first:
+      213: -7479529278486165745
+    second: breathOfTheLink_174
+  - first:
+      213: -8032581890229458112
+    second: breathOfTheLink_175
+  - first:
+      213: 7566832760716403270
+    second: breathOfTheLink_176
+  - first:
+      213: -1935256275284059805
+    second: breathOfTheLink_177
+  - first:
+      213: 714037999371659206
+    second: breathOfTheLink_178
+  - first:
+      213: 434299440215018114
+    second: breathOfTheLink_179
+  - first:
+      213: 8305521427338245744
+    second: breathOfTheLink_180
+  - first:
+      213: -6564734324208802654
+    second: breathOfTheLink_181
+  - first:
+      213: 3630470933465027215
+    second: breathOfTheLink_182
+  - first:
+      213: 863201879583047052
+    second: breathOfTheLink_183
+  - first:
+      213: 8542278009657203150
+    second: breathOfTheLink_184
+  - first:
+      213: -6556419206085925894
+    second: breathOfTheLink_185
+  - first:
+      213: 7014037404159826335
+    second: breathOfTheLink_186
+  - first:
+      213: 1256843633272021917
+    second: breathOfTheLink_187
+  - first:
+      213: -2018035364511187894
+    second: breathOfTheLink_188
+  - first:
+      213: -5654414228625868895
+    second: breathOfTheLink_189
+  - first:
+      213: -6470540435102942918
+    second: breathOfTheLink_190
+  - first:
+      213: -2444111334973120615
+    second: breathOfTheLink_191
+  - first:
+      213: -939611914337211787
+    second: breathOfTheLink_192
+  - first:
+      213: -8579466217360823667
+    second: breathOfTheLink_193
+  - first:
+      213: 1329377357905734559
+    second: breathOfTheLink_194
+  - first:
+      213: -7358047462217779501
+    second: breathOfTheLink_195
+  - first:
+      213: -6976745110119560933
+    second: breathOfTheLink_196
+  - first:
+      213: 1185421163595679930
+    second: breathOfTheLink_197
+  - first:
+      213: 5987430544821577550
+    second: breathOfTheLink_198
+  - first:
+      213: 6124729663816406502
+    second: breathOfTheLink_199
+  - first:
+      213: 6110448762802681568
+    second: breathOfTheLink_200
+  - first:
+      213: -434749557384191240
+    second: breathOfTheLink_201
+  - first:
+      213: 494999848057005083
+    second: breathOfTheLink_202
+  - first:
+      213: -6331981142074229473
+    second: breathOfTheLink_203
+  - first:
+      213: 9152846272858659519
+    second: breathOfTheLink_204
+  - first:
+      213: -6225360897755299169
+    second: breathOfTheLink_205
+  - first:
+      213: 5447203503788994120
+    second: breathOfTheLink_206
+  - first:
+      213: 6789364794756845893
+    second: breathOfTheLink_207
+  - first:
+      213: 7110446454055645779
+    second: breathOfTheLink_208
+  - first:
+      213: -2246399274231484774
+    second: breathOfTheLink_209
+  - first:
+      213: -5119494705532026514
+    second: breathOfTheLink_210
+  - first:
+      213: 8878884797643157436
+    second: breathOfTheLink_211
+  - first:
+      213: -877484298811433782
+    second: breathOfTheLink_212
+  - first:
+      213: 8974182536790932702
+    second: breathOfTheLink_213
+  - first:
+      213: -8963120066549746258
+    second: breathOfTheLink_214
+  - first:
+      213: 6583219714836709506
+    second: breathOfTheLink_215
+  - first:
+      213: 2161382474765032187
+    second: breathOfTheLink_216
+  - first:
+      213: 3165408361044456770
+    second: breathOfTheLink_217
+  - first:
+      213: -7188896272992405781
+    second: breathOfTheLink_218
+  - first:
+      213: 1494654778117067766
+    second: breathOfTheLink_219
+  - first:
+      213: 5248716801589566044
+    second: breathOfTheLink_220
+  - first:
+      213: -4372670120476674337
+    second: breathOfTheLink_221
+  - first:
+      213: -2574405498819242980
+    second: breathOfTheLink_222
+  - first:
+      213: 1369016669338911099
+    second: breathOfTheLink_223
+  - first:
+      213: -7269005676974462807
+    second: breathOfTheLink_224
+  - first:
+      213: -6009207738735868946
+    second: breathOfTheLink_225
+  - first:
+      213: 3806428480701449817
+    second: breathOfTheLink_226
+  - first:
+      213: 5264953173610416280
+    second: breathOfTheLink_227
+  - first:
+      213: 9119541402568049141
+    second: breathOfTheLink_228
+  - first:
+      213: -5543819192849005567
+    second: breathOfTheLink_229
+  - first:
+      213: -171965107561887840
+    second: breathOfTheLink_230
+  - first:
+      213: 6041511577686781992
+    second: breathOfTheLink_231
+  - first:
+      213: -1960739348201097648
+    second: breathOfTheLink_232
+  - first:
+      213: 3458084460289999553
+    second: breathOfTheLink_233
+  - first:
+      213: 1840292911856482932
+    second: breathOfTheLink_234
+  - first:
+      213: 3240019345834066039
+    second: breathOfTheLink_235
+  - first:
+      213: 9138557189649299063
+    second: breathOfTheLink_236
+  - first:
+      213: 5871961834347541871
+    second: breathOfTheLink_237
+  - first:
+      213: -7634475710582717519
+    second: breathOfTheLink_238
+  - first:
+      213: 9130944650812561312
+    second: breathOfTheLink_239
+  - first:
+      213: -2836419221514060577
+    second: breathOfTheLink_240
+  - first:
+      213: 560923741623655031
+    second: breathOfTheLink_241
+  - first:
+      213: 1298667650100243701
+    second: breathOfTheLink_242
+  - first:
+      213: 287292419309038689
+    second: breathOfTheLink_243
+  - first:
+      213: -6597864421701740388
+    second: breathOfTheLink_244
+  - first:
+      213: -4992102237707358871
+    second: breathOfTheLink_245
+  - first:
+      213: 5551960797097314260
+    second: breathOfTheLink_246
+  - first:
+      213: -8717909695331419837
+    second: breathOfTheLink_247
+  - first:
+      213: -7095903016756682595
+    second: breathOfTheLink_248
+  - first:
+      213: 3841101122442289822
+    second: breathOfTheLink_249
+  - first:
+      213: -246117735617095965
+    second: breathOfTheLink_250
+  - first:
+      213: 2389643021706625426
+    second: breathOfTheLink_251
+  - first:
+      213: -6606801629454473208
+    second: breathOfTheLink_252
+  - first:
+      213: -3254128184701286837
+    second: breathOfTheLink_253
+  - first:
+      213: -4416747188720545340
+    second: breathOfTheLink_254
+  - first:
+      213: 3857765226739696443
+    second: breathOfTheLink_255
+  - first:
+      213: -240581486299624956
+    second: breathOfTheLink_256
+  - first:
+      213: -5298835553852934720
+    second: breathOfTheLink_257
+  - first:
+      213: -5785289653232939460
+    second: breathOfTheLink_258
+  - first:
+      213: -1889191340098080268
+    second: breathOfTheLink_259
+  - first:
+      213: -5800515367334733732
+    second: breathOfTheLink_260
+  - first:
+      213: -7679066715561253108
+    second: breathOfTheLink_261
+  - first:
+      213: 303712165813803720
+    second: breathOfTheLink_262
+  - first:
+      213: -7761389831272330810
+    second: breathOfTheLink_263
+  - first:
+      213: -380312037697774422
+    second: breathOfTheLink_264
+  - first:
+      213: 4081621355841991992
+    second: breathOfTheLink_265
+  - first:
+      213: 5537921158220016875
+    second: breathOfTheLink_266
+  - first:
+      213: -2951288543816212636
+    second: breathOfTheLink_267
+  - first:
+      213: 288873121230658009
+    second: breathOfTheLink_268
+  - first:
+      213: 4554704384852617157
+    second: breathOfTheLink_269
+  - first:
+      213: 453679889206292786
+    second: breathOfTheLink_270
+  - first:
+      213: -4936428016201577087
+    second: breathOfTheLink_271
+  - first:
+      213: 7745424592684501799
+    second: breathOfTheLink_272
+  - first:
+      213: 655758390225879062
+    second: breathOfTheLink_273
+  - first:
+      213: 6873368633100608812
+    second: breathOfTheLink_274
+  - first:
+      213: -4427519267747187742
+    second: breathOfTheLink_275
+  - first:
+      213: 4740452760934714359
+    second: breathOfTheLink_276
+  - first:
+      213: 952071165451715447
+    second: breathOfTheLink_277
+  - first:
+      213: -8156366113393954684
+    second: breathOfTheLink_278
+  - first:
+      213: 6463218491066535762
+    second: breathOfTheLink_279
+  - first:
+      213: 2760871714505098808
+    second: breathOfTheLink_280
+  - first:
+      213: -7213579995466187404
+    second: breathOfTheLink_281
+  - first:
+      213: -7257344144288060900
+    second: breathOfTheLink_282
+  - first:
+      213: -25004133697522005
+    second: breathOfTheLink_283
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: breathOfTheLink_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 753
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044f124b5a67610c0800000000000000
+      internalID: -4605363114875947968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 753
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e9db490897d0d80800000000000000
+      internalID: -8282830546506244542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 753
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b727d1e799e2fe0800000000000000
+      internalID: -1211862482777113805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 754
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb95500cf851e5400800000000000000
+      internalID: 314712731108596159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 754
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5d0b27faa10ba30800000000000000
+      internalID: 4228909390946686462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 753
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1999652c0186ff900800000000000000
+      internalID: 720408886591789457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 753
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510dac628009c0710800000000000000
+      internalID: 1660860727277834261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 754
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3a67ee377abc610800000000000000
+      internalID: 1642590605470507981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 756
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee303e9a5ff10230800000000000000
+      internalID: 3603441941539208935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 757
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227edb78f370b6740800000000000000
+      internalID: 5146214968642627362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 754
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc46e2d0fc0df6a0800000000000000
+      internalID: -6413956065835725569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_11
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 754
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f9624c45131da40800000000000000
+      internalID: 5391144469077073694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_12
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 760
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a41fd0654031a850800000000000000
+      internalID: 6386438821124183201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_13
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 760
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bef34fc5b313ff0800000000000000
+      internalID: -58200049758246007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 719
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc41c7fc1575ff440800000000000000
+      internalID: 4971788522525299915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_15
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 719
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe5d3904d3ed8090800000000000000
+      internalID: -8030512060704137540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 719
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cce9767a5fd4ee0800000000000000
+      internalID: -1275093020129178618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_17
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 719
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad4a379c62617e30800000000000000
+      internalID: 4499485721253006765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 719
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e35d6df72b26bd0800000000000000
+      internalID: -2638350169550799358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 719
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0042d2bfcbf7470800000000000000
+      internalID: 8394636017422041314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_20
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 719
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd024a85f4341990800000000000000
+      internalID: -7416244457181147656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 718
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f993b7d62e7c4260800000000000000
+      internalID: 7083175019239676400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 719
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946755b3dc6ddf7c0800000000000000
+      internalID: -4035833514102000055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_23
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 719
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789c901e1b7decc00800000000000000
+      internalID: 922912132642228615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_24
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 719
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1e81c72f5f2c150800000000000000
+      internalID: 5891541684366926297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_25
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 719
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f781f3a201f292850800000000000000
+      internalID: 6352660495857555583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_26
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 719
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6976a5477718dc0800000000000000
+      internalID: -3638495682322000149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_27
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 719
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df4485ce04dde120800000000000000
+      internalID: 2444843332640460757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_28
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 718
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa65fdfebc8349260800000000000000
+      internalID: 7103364960824022698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_29
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 717
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54613c39b208a2c70800000000000000
+      internalID: 8947104534375896645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 683
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b31014ccb8627f40800000000000000
+      internalID: 5724753236293850035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 683
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3082723566492ad30800000000000000
+      internalID: 4441275349743380483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_32
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 683
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5085b71db78d30fb0800000000000000
+      internalID: -4682661161228085243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_33
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 683
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016820528996f3db0800000000000000
+      internalID: -4810009774831532528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_34
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 683
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1623a4175b43a80800000000000000
+      internalID: -8487959899505794653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_35
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 683
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bc6498abd0cec60800000000000000
+      internalID: 7848663345418128154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_36
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 682
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345df37523e4a3980800000000000000
+      internalID: -8558442163745073853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_37
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 681
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e044fa97a068c8e30800000000000000
+      internalID: 4507124706640348174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_38
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 681
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334937d6f567c8320800000000000000
+      internalID: 2561552440297231411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_39
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 681
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1228de7b1caddf0800000000000000
+      internalID: -154598241482956295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_40
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 681
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c021cbc32bd13d140800000000000000
+      internalID: 4743167483911606796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_41
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 681
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628c08028b003b180800000000000000
+      internalID: -9100929631166347226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_42
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 680
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813db4e5802cef920800000000000000
+      internalID: 3026069340837106456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_43
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 681
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03b9ff0b9b41d190800000000000000
+      internalID: -7939481538717437174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_44
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 648
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300cfe09620bb16e0800000000000000
+      internalID: -1865703940928061437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_45
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 648
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0570c1551ae2400800000000000000
+      internalID: 301355611994935468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_46
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 648
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417ba42d5b9b758d0800000000000000
+      internalID: -2857611247974959340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_47
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 648
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52164c80e53823f0800000000000000
+      internalID: -925430484882288036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_48
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 648
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4aa9809ce4144ba0800000000000000
+      internalID: -6105732188537771444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_49
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 648
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad41a3c0ec80a930800000000000000
+      internalID: 4152473753418288546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_50
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 646
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11c289e275f2a560800000000000000
+      internalID: 7323685817950585116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_51
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 646
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737c2b11e8852ae50800000000000000
+      internalID: 6819110152997881655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_52
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 647
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69542851a016cf7e0800000000000000
+      internalID: -1730401460878686826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_53
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 648
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f5be263e4c68c40800000000000000
+      internalID: 5514311274657963825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_54
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 647
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b725d8564e856fa90800000000000000
+      internalID: -7280534009618279813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_55
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 647
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df91660d2321b580800000000000000
+      internalID: -8813224319499788334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_56
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 645
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e2ce5eb2f356fd0800000000000000
+      internalID: -2349402172830241227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 645
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2569adc5d6659b60800000000000000
+      internalID: 7752215402052674860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_58
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 616
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfb3b54f4635d060800000000000000
+      internalID: 6977542911780175836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_59
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 615
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc49b7f3434b4310800000000000000
+      internalID: 1390278869171916025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_60
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 615
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc47879fa95a74380800000000000000
+      internalID: -8987032446365567795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_61
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 615
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37ffd99391192c10800000000000000
+      internalID: 2029172432746575674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 615
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6abae959a5bca00800000000000000
+      internalID: 777814959310218997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_63
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 617
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2880dc4211b6cd8c0800000000000000
+      internalID: -3973183049871587198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_64
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 616
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c4cfc831e9a9060800000000000000
+      internalID: 6961049980861434971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_65
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 616
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcb132c0f26d1740800000000000000
+      internalID: 5124360737207205110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_66
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 616
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab09eab7ede6a890800000000000000
+      internalID: -7447003354281473118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_67
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 615
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898c766eeb2ae7100800000000000000
+      internalID: 107702381896517784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_68
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 615
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967501cc026693180800000000000000
+      internalID: -9135158078095730839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_69
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 615
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a448f041b349930800000000000000
+      internalID: 4149006114060782083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_70
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 615
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5a827190bbca490800000000000000
+      internalID: -7733600812384344605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_71
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 614
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d427c8e3886ec59d0800000000000000
+      internalID: -2784096996782476723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_72
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 613
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0df138a6b836ff0800000000000000
+      internalID: -44038281760878425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_73
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 577
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab357bcd09445fa50800000000000000
+      internalID: 6554220221676606394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_74
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 577
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848e1ffd6936f25a0800000000000000
+      internalID: -6543902233892624312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_75
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 577
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4d3f07df2c27860800000000000000
+      internalID: 7526292321067062516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_76
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 578
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72347ff88fd8c6b80800000000000000
+      internalID: -8400183106246065369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_77
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 578
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a598f9dc4f59b3580800000000000000
+      internalID: -8846312164384863910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_78
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 578
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099c3bf243ec94cd0800000000000000
+      internalID: -2573298988531594864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_79
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 577
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a20cea802294c50800000000000000
+      internalID: 6649883745476160129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_80
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 577
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d249e47d4a9edc0800000000000000
+      internalID: -3609172381717484185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_81
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 578
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb763552d03fe560800000000000000
+      internalID: 7345143197195467765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_82
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 577
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac0787f17f900b70800000000000000
+      internalID: 8863259378498079911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_83
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 573
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc23b2f05f611e70800000000000000
+      internalID: 9084164316842896574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_84
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 576
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3914066c8fd143330800000000000000
+      internalID: 3689606949040570771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_85
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 539
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86351509e71615490800000000000000
+      internalID: -7759313486767631512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_86
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 539
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91742658fd9dec50800000000000000
+      internalID: 6696181910892474782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_87
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 538
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7fa7b89aa7cabd0800000000000000
+      internalID: -2617582414800947276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_88
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 538
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d6e6e8a59693210800000000000000
+      internalID: 1313196604012785012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_89
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 537
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a261ed376840fa0800000000000000
+      internalID: -5835391384959964585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_90
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 537
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0d22411dd65afa0800000000000000
+      internalID: -5790101001161486130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_91
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 537
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29ba37c4629e6d30800000000000000
+      internalID: 4426636445288675628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_92
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 538
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ae59755eb540ee0800000000000000
+      internalID: -1295809752200779145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_93
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 537
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35a2dbda6ec96880800000000000000
+      internalID: -8617129453646863042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_94
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 537
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b228e1a361b1cebe0800000000000000
+      internalID: -1446751598014463445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_95
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 538
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3a4dac0d182b160800000000000000
+      internalID: 7039831901289620473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_96
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 538
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b83565cbdddcba0800000000000000
+      internalID: -6066949322026284216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_97
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 535
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361169a76f7651a60800000000000000
+      internalID: 7644130250847555939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_98
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 536
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60be1d662e536a670800000000000000
+      internalID: 8549580189113379590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_99
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 499
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cde84aa61df6ad0800000000000000
+      internalID: -2706714595068814318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_100
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 499
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91bd2fbe392a93e0800000000000000
+      internalID: -2046277731214315105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_101
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 500
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bf4d3aa512133b0800000000000000
+      internalID: -5534605793882211554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_102
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 499
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c380d6af690867de0800000000000000
+      internalID: -1335738853533874116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_103
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 499
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1d72a5d7e7f93d0800000000000000
+      internalID: -3197698133561191971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_104
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 499
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc44310eba63e7a80800000000000000
+      internalID: -8467270137583287093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_105
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 500
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9a7a500c9337f70800000000000000
+      internalID: 9183747562029951461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_106
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 500
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7602584178e11dc70800000000000000
+      internalID: 8994003496349278311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_107
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 501
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb1ef90021aa5fb0800000000000000
+      internalID: -4658233705582683167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_108
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 502
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e715b4ad33255e560800000000000000
+      internalID: 7342365150156640638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_109
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 505
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2350ee19298c84c0800000000000000
+      internalID: -4283898335831502035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_110
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 505
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac73d5b32eb69cd50800000000000000
+      internalID: 6758051335248885706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_111
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 505
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0425594916bc1a0800000000000000
+      internalID: -6788224722542640930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_112
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 451
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfb5bececf3f8a00800000000000000
+      internalID: 760897019512733620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_113
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 462
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6004971e579e30200800000000000000
+      internalID: 145216305509253126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_114
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 462
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b98a386a141c0800800000000000000
+      internalID: 579860555674323383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_115
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 456
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23a237dce1ddeac0800000000000000
+      internalID: -3824169693414776019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_116
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 456
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e1f0e39f459b950800000000000000
+      internalID: 6465292169531825708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_117
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 456
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b69647a67b60990800000000000000
+      internalID: -7420041668198831355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_118
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 455
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8954cf06664456e60800000000000000
+      internalID: 7954839523324347800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_119
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 455
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5204216b106ce0360800000000000000
+      internalID: 7137860170080731173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_120
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 456
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6cc59ad468f9150800000000000000
+      internalID: 5881567306481190628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_121
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 458
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9f93dbe8fc08300800000000000000
+      internalID: 252429791099746767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_122
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 457
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b0536d8626bd010800000000000000
+      internalID: 1214672726916402037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_123
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 422
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc8765e893a39270800000000000000
+      internalID: 8256122418979376375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_124
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 421
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27719dd4c5dfbc70800000000000000
+      internalID: 8989138422762403628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_125
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 418
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d25662bdd6f15140800000000000000
+      internalID: 4706814517620134613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_126
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 418
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f23a63fb9ccaaf0800000000000000
+      internalID: -383710045140734207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_127
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 416
+        width: 79
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3916520977bea650800000000000000
+      internalID: 6246131463567579451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_128
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 416
+        width: 79
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882b3c89df3de24a0800000000000000
+      internalID: -6616117716417531256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_129
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 370
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48cf127957db23c0800000000000000
+      internalID: -4383173033148299190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_130
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 370
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee8258e920dae530800000000000000
+      internalID: 3885146506970435304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_131
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 371
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0a618c521a4f140800000000000000
+      internalID: 4752600690425503980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_132
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 376
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3c23b2f103e85d0800000000000000
+      internalID: -3058454186511121482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_133
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 375
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2df7b183eb68950800000000000000
+      internalID: 6451052664443622134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_134
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 375
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e38bd6f3da8e7280800000000000000
+      internalID: -9043638358729063453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 375
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8bfa72cfee467f0800000000000000
+      internalID: -620108081905289004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_136
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 377
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048bd4027d04a2a10800000000000000
+      internalID: 1885390686712084544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_137
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 375
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fe6e75dad3485e0800000000000000
+      internalID: -1908332527384858742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_138
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 375
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e6198ad374c6430800000000000000
+      internalID: 3777472517603683866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_139
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 376
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18edf4d3f7957050800000000000000
+      internalID: 5797707168815638557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_140
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 337
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257b71c0cdbd81bc0800000000000000
+      internalID: -3812055346426955950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_141
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 337
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32890552ddacbc420800000000000000
+      internalID: 2651435856800290851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_142
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 336
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbfb16c2009fb1e0800000000000000
+      internalID: -2179865353035973640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_143
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 337
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323c6e697c0c066f0800000000000000
+      internalID: -693342379152325853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_144
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 337
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d86afcf7b931070800000000000000
+      internalID: 8075969530052381952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_145
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 337
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d5a255294c4f280800000000000000
+      internalID: -9010360821688410779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_146
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 336
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd4246b8b0042f70800000000000000
+      internalID: 9161448335310212531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_147
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 336
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616455f1bf65dd7d0800000000000000
+      internalID: -2892059749139528170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_148
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 339
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cafb78f2b74f780800000000000000
+      internalID: -8650153540200715237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_149
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 339
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c95f8df72f6567a0800000000000000
+      internalID: -6384574679179372093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_150
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 339
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d59103b534a9a80800000000000000
+      internalID: -8459374891134001838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_151
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 339
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3036ecb372e2ad420800000000000000
+      internalID: 2655485676330312451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_152
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 339
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19c0b23aa7c67700800000000000000
+      internalID: 537836739326167324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_153
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 339
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13b608c72052dfa0800000000000000
+      internalID: -5777467240173096161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_154
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 342
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1ec7820e05597a0800000000000000
+      internalID: -6371097174163529283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_155
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 342
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd40c4dcf6899220800000000000000
+      internalID: 2493172289185533367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_156
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 342
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9666a6183a4684670800000000000000
+      internalID: 8523172948212344425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_157
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 342
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10617298e52eee1e0800000000000000
+      internalID: -2166545475062786559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_158
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 344
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12860b2c781bf75c0800000000000000
+      internalID: -4215455529550452703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_159
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 302
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3c6460896eb5c90800000000000000
+      internalID: -7179891640297405484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_160
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 302
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00858f94bf97fb020800000000000000
+      internalID: 2359738849950193664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_161
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 302
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97d77b29df126180800000000000000
+      internalID: -9123694877501565025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_162
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 302
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba6bcd0273cba7e0800000000000000
+      internalID: -1753092735305553222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_163
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 302
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c080aea42072cf0800000000000000
+      internalID: -277250331282764645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_164
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 302
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9118c144aebe60ad0800000000000000
+      internalID: -2736240332183404263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_165
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 302
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859ec70f0e70240e0800000000000000
+      internalID: -2287256998062003880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_166
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 302
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dd4bd252a2a4850800000000000000
+      internalID: 6361943762783231375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_167
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 303
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed08bf743b73ac960800000000000000
+      internalID: 7622966562424324318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_168
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 303
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbf81834721ca590800000000000000
+      internalID: -7661728575697388591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_169
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 303
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912e9a6da2d2409a0800000000000000
+      internalID: -6267835119379553767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_170
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 303
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d73179b642f7fd0800000000000000
+      internalID: -2342113236694631063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_171
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 303
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060e3800ef647a480800000000000000
+      internalID: -8888057282848104352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_172
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 303
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa33eef929d550360800000000000000
+      internalID: 7135212068968215466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_173
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 303
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250fab7865af9a450800000000000000
+      internalID: 6100682419801354322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_174
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 303
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07c2bcdfbf533890800000000000000
+      internalID: -7479529278486165745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_175
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 269
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b23ab4459868090800000000000000
+      internalID: -8032581890229458112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_176
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 269
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6422a491e4ac20960800000000000000
+      internalID: 7566832760716403270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_177
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 269
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369195acba69425e0800000000000000
+      internalID: -1935256275284059805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_178
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 269
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7adacf6c5c8e900800000000000000
+      internalID: 714037999371659206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_179
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 270
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28aca243a01f60600800000000000000
+      internalID: 434299440215018114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_180
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 270
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07634eecbb3234370800000000000000
+      internalID: 8305521427338245744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_181
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 270
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a468b0e9e065e4a0800000000000000
+      internalID: -6564734324208802654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_182
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 271
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8250943416026230800000000000000
+      internalID: 3630470933465027215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_183
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 271
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d3ff93985bafb00800000000000000
+      internalID: 863201879583047052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_184
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 271
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec99f3247944c8670800000000000000
+      internalID: 8542278009657203150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_185
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 271
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af323be287be205a0800000000000000
+      internalID: -6556419206085925894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_186
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 271
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99df3c6bddd65160800000000000000
+      internalID: 7014037404159826335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_187
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 271
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93e36b10a4317110800000000000000
+      internalID: 1256843633272021917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_188
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 271
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c722a278f7ef3e0800000000000000
+      internalID: -2018035364511187894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_189
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 271
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a737d9a73c7781b0800000000000000
+      internalID: -5654414228625868895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_190
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 271
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3933e4b1c50436a0800000000000000
+      internalID: -6470540435102942918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_191
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 237
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fdb67b0b5c41ed0800000000000000
+      internalID: -2444111334973120615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_192
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 237
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57aa43331f3d5f2f0800000000000000
+      internalID: -939611914337211787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_193
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 237
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a6eb76eec9fe880800000000000000
+      internalID: -8579466217360823667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_194
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 237
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b2b66e9a5e27210800000000000000
+      internalID: 1329377357905734559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_195
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 237
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d67b0651d6f2e990800000000000000
+      internalID: -7358047462217779501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_196
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 237
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1941e6694f9d2f90800000000000000
+      internalID: -6976745110119560933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_197
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 237
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8c9558446737010800000000000000
+      internalID: 1185421163595679930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_198
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 237
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47e9659b50a71350800000000000000
+      internalID: 5987430544821577550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_199
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 238
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e51315dd296ff450800000000000000
+      internalID: 6124729663816406502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_200
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 238
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6341576ccacc450800000000000000
+      internalID: 6110448762802681568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_201
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 238
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f26bd9b49577f9f0800000000000000
+      internalID: -434749557384191240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_202
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 238
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b146f4b3db79ed600800000000000000
+      internalID: 494999848057005083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_203
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 238
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d713613b84028a0800000000000000
+      internalID: -6331981142074229473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_204
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 238
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba9f79f031750f70800000000000000
+      internalID: 9152846272858659519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_205
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 238
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9240b23f331b99a0800000000000000
+      internalID: -6225360897755299169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_206
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 238
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e2b96e9ba589b40800000000000000
+      internalID: 5447203503788994120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_207
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 202
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541560a2f4ba83e50800000000000000
+      internalID: 6789364794756845893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_208
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 202
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3523c6090616da260800000000000000
+      internalID: 7110446454055645779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_209
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 202
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9eacb313cf23d0e0800000000000000
+      internalID: -2246399274231484774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_210
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 202
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61454780b6e3f8b0800000000000000
+      internalID: -5119494705532026514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_211
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 202
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfe22d5ea2283b70800000000000000
+      internalID: 8878884797643157436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_212
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 202
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc9c59edac82d3f0800000000000000
+      internalID: -877484298811433782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_213
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 202
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcffee4873ba8c70800000000000000
+      internalID: 8974182536790932702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_214
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 202
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea57022c9c99c9380800000000000000
+      internalID: -8963120066549746258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_215
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 203
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280c035837b4c5b50800000000000000
+      internalID: 6583219714836709506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_216
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 203
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfadf18c8e5cefd10800000000000000
+      internalID: 2161382474765032187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_217
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 204
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2453b11222acdeb20800000000000000
+      internalID: 3165408361044456770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_218
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 204
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be678299de8eb3c90800000000000000
+      internalID: -7188896272992405781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_219
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 204
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f312870a941eb410800000000000000
+      internalID: 1494654778117067766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_220
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 204
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ade554f1037d840800000000000000
+      internalID: 5248716801589566044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_221
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 204
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6f50d51b72153c0800000000000000
+      internalID: -4372670120476674337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_222
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 204
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14111fa6dfd54cd0800000000000000
+      internalID: -2574405498819242980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_223
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 170
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71c88b4869bff210800000000000000
+      internalID: 1369016669338911099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_224
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 170
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8a3a189dd4f1b90800000000000000
+      internalID: -7269005676974462807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_225
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 170
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3ce1756610b9ca0800000000000000
+      internalID: -6009207738735868946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_226
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 171
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956c32f298623d430800000000000000
+      internalID: 3806428480701449817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_227
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 171
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8984d18340fd01940800000000000000
+      internalID: 5264953173610416280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_228
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 171
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f14986969e1f8e70800000000000000
+      internalID: 9119541402568049141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_229
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 170
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1040e3701d56013b0800000000000000
+      internalID: -5543819192849005567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_230
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 170
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7030255ae0d9df0800000000000000
+      internalID: -171965107561887840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_231
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 170
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8203e6645c2c7d350800000000000000
+      internalID: 6041511577686781992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_232
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 170
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056b75583fd0ac4e0800000000000000
+      internalID: -1960739348201097648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_233
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 170
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c242e2be759dff20800000000000000
+      internalID: 3458084460289999553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_234
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 170
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47affdd27a80a8910800000000000000
+      internalID: 1840292911856482932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_235
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 138
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77045ddbd6cd6fc20800000000000000
+      internalID: 3240019345834066039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_236
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 138
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77673a8885da2de70800000000000000
+      internalID: 9138557189649299063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_237
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 138
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65bfe66d266d7150800000000000000
+      internalID: 5871961834347541871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_238
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 139
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b38e585ac4ec0690800000000000000
+      internalID: -7634475710582717519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_239
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 139
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a79f6738c1a7be70800000000000000
+      internalID: 9130944650812561312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_240
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 140
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc709bfeb303a8d0800000000000000
+      internalID: -2836419221514060577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_241
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 140
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a9f8dcb2dc8c700800000000000000
+      internalID: 560923741623655031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_242
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 139
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc248dd85bc50210800000000000000
+      internalID: 1298667650100243701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_243
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 139
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ce397eeeaacf300800000000000000
+      internalID: 287292419309038689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_244
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 142
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c989744f34daf64a0800000000000000
+      internalID: -6597864421701740388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_245
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 138
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d250fc67d78bab0800000000000000
+      internalID: -4992102237707358871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_246
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 138
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d741edede68c0d40800000000000000
+      internalID: 5551960797097314260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_247
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 141
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34936d15253c30780800000000000000
+      internalID: -8717909695331419837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_248
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 138
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90689d4dc9468d90800000000000000
+      internalID: -7095903016756682595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_249
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 102
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92e68dae155e4530800000000000000
+      internalID: 3841101122442289822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_250
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 103
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e69e93393d959cf0800000000000000
+      internalID: -246117735617095965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_251
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 103
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29180d8daa7b92120800000000000000
+      internalID: 2389643021706625426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_252
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 104
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808e4ee1cecef44a0800000000000000
+      internalID: -6606801629454473208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_253
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 103
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b460b4938a307d2d0800000000000000
+      internalID: -3254128184701286837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_254
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 104
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c15b9135df84b2c0800000000000000
+      internalID: -4416747188720545340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_255
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 104
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b338caec809898530800000000000000
+      internalID: 3857765226739696443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_256
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 104
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a4391b96849acf0800000000000000
+      internalID: -240581486299624956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_257
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 104
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5b2616321c676b0800000000000000
+      internalID: -5298835553852934720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_258
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 104
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ece4056b586bfa0800000000000000
+      internalID: -5785289653232939460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_259
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 104
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1b5bc4c7e38c5e0800000000000000
+      internalID: -1889191340098080268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_260
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 104
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5891df710e608fa0800000000000000
+      internalID: -5800515367334733732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_261
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 66
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c072274f1897e6590800000000000000
+      internalID: -7679066715561253108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_262
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 63
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cadb4d0b90073400800000000000000
+      internalID: 303712165813803720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_263
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 63
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c90fafe1110a4490800000000000000
+      internalID: -7761389831272330810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_264
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 62
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac1839773cd8baf0800000000000000
+      internalID: -380312037697774422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_265
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 64
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8353c9e6ff4d4a830800000000000000
+      internalID: 4081621355841991992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_266
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 60
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bece2d5c3f5aadc40800000000000000
+      internalID: 5537921158220016875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_267
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 58
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f972cb4baea07d0800000000000000
+      internalID: -2951288543816212636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_268
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 58
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d99c10c298420400800000000000000
+      internalID: 288873121230658009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_269
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 57
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7ed04918f853f30800000000000000
+      internalID: 4554704384852617157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_270
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 57
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23131ed947bcb4600800000000000000
+      internalID: 453679889206292786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_271
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 57
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dc403afd84e7bb0800000000000000
+      internalID: -4936428016201577087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_272
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 27
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bc88941a64d7b60800000000000000
+      internalID: 7745424592684501799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_273
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 25
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61045e318c8b91900800000000000000
+      internalID: 655758390225879062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_274
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 23
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25264aea5c136f50800000000000000
+      internalID: 6873368633100608812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_275
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 21
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e33bb91faa4e82c0800000000000000
+      internalID: -4427519267747187742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_276
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 15
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb880a8ba879c140800000000000000
+      internalID: 4740452760934714359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_277
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 12
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77344a14eaf663d00800000000000000
+      internalID: 952071165451715447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_278
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 17
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480be11fb34cece80800000000000000
+      internalID: -8156366113393954684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_279
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 17
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fc1c959f6f1b950800000000000000
+      internalID: 6463218491066535762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_280
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 17
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83600855236905620800000000000000
+      internalID: 2760871714505098808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_281
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 17
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dbf5b963734eb90800000000000000
+      internalID: -7213579995466187404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_282
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 11
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ae2faa3fbb84b90800000000000000
+      internalID: -7257344144288060900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathOfTheLink_283
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 9
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6fa057fda27aff0800000000000000
+      internalID: -25004133697522005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Gound
+  - TeleportPoint
   layers:
   - Default
   - TransparentFX
@@ -38,6 +40,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 455681493
+    locked: 0
+  - name: Middleground
+    uniqueID: 3560627705
+    locked: 0
+  - name: Foreground
+    uniqueID: 2626553639
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
